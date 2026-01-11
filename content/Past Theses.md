@@ -1,0 +1,5 @@
+1. [[Efficient Sampling from Differentiable Matrix Elements]] by [[Annalena Kofler]]
+2. [[Automated combinations of signal regions for pMSSM scans at the ATLAS detector]] by [[Leon Renn]]
+3. [[Self-Supervised Foundation Models for High-Energy Physics at the LHC - Scalability and Finetuning Analysis of Masked Particle Modeling for Jets]] by [[Lukas Böckelmann]]
+4. [[Implementation of the Matrix Element Method and a Jet Clustering Algorithm with Machine Learning at Future Higgs Factories]] by [[Bryan Bliewert]]
+5. [[Active Learning with Gaussian Processes for Contour Finding in the pMSSM]] by [[Dominik Voß]]
