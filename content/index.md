@@ -1,1 +1,0 @@
-/Users/lukasheinrich/Code/quartz_2026/groupknowledge/→ Home.md
