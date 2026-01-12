@@ -1,4 +1,5 @@
-Author: [[Bryan Bliewert]]
+* Author: [[Bryan Bliewert]]
+* Supervisors: [[Lukas Heinrich]], [[Jenny List]]
 
 A top priority of future collider programs is to measure the value of the Higgs self-coupling λ.
 Through double Higgs production (ZHH), this is possible by direct measurement at lepton col-

@@ -1,4 +1,5 @@
-Author: [[Leon Renn]]
+* Author: [[Leon Renn]]
+* Supervisors: [[Jonas Würzinger]], [[Lukas Heinrich]]
 
 One of the biggest accomplishments of the Large Hadron Collider (LHC) at CERN was to
 find the Higgs particle that concluded the search for elementary particles in the Standard

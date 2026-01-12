@@ -1,3 +1,6 @@
+* Author: [[Dominik Voß]]
+* Supervisors: [[Jonas Würzinger]], [[Lukas Heinrich]]
+
 This work aims to improve the sampling efficiency of parameter space exploration in high-
 dimensional BSM theory spaces through the application of Active Learning (AL) with Gaus-
 sian Processes (GPs). Using this method, contours in the 19D pMSSM parameter space can

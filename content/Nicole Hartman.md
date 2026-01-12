@@ -1,3 +1,3 @@
 Works on
-* [[Di-Higgs]]
+* [[Di-Higgs Analysis]]
 * [[Differentiable Jet Clustering]]

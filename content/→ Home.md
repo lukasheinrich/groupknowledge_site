@@ -8,17 +8,17 @@ Welcome to the Group Wiki for the Data Science in Physics group. This is where w
 * [[Group Members]]
 * [[Onboarding]]
 * [[How to Edit this Repo]]
-* [[Interesting Papers]]
+* [[Interesting Reads]]
+* [[Our Papers]]
+* [[TUM-ATLAS Group]]
 
-## Projects
-
-* [[Differentiable Jet Clustering]]
-* [[pMSSM Scan]]
-* [[Di-Higgs Analysis]]
-* [[LEGO]]
+## Topics
+* [[Simulation-based Inference]]
+* [[AI-driven Design]]
+* [[Statistics]]
+* [[Foundation Models for Particle Physics]]
 
 ## Resources 
-
 * [[Group Drive]]
 * [[Past Theses]]
 * [[Pedagogical Jupyter Notebooks]]

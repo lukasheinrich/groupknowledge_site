@@ -1,4 +1,5 @@
-Author: [[Annalena Kofler]]
+* Author: [[Annalena Kofler]]
+* Supervisors: [[Michael Kagan]], [[Lukas Heinrich]]
 
 Generating high quality events from non-trivial, high-dimensional distributions is essential in
 various physics fields such as High Energy Physics (HEP). Since significantly more particle

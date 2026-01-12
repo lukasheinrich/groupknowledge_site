@@ -5,6 +5,10 @@ Here are some notes for onboarding new students
 * **Read Access:** Ask Lukas to add the person to the `Group Wiki Access` GitHub team or their email to the Cloudflare whitelist.
 * **Write Access:** Ask Lukas to add the person to the `groupknowlegde` GitHub repo.
 
+#### Access to GitHub Org
+
+* Ask Lukas to add the person to https://github.com/tupheds
+
 #### CERN Account
 
 Students working with us using CERN data (especially within the [[TUM-ATLAS Group]]) will need a CERN account. 

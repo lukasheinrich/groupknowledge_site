@@ -29,35 +29,34 @@
 3. [[Nikola Boskov]]
 4. [[Elli Jobst]]
 6. [[Jonathan Renusch]]
-7. [[Dominik Voß]] 
-8. [[Manuel Bünsdorf]]
-9. [[Max Hofhacker]] (Alumn)
-10. [[Vitus Past]] (Alumn)
-11. [[Niklas Meier]] (Alumn)
-12. [[Jonathan Klimesch]] (Alumn)
-13. [[Merle Schwager]] (Alumn)
-14. [[Lukas Böckelmann]] (Alumn)
-15. [[Bryan Bliewert]] (Alumn)
-16. [[Leon Renn]] (Alumn)
-17. [[Annalena Kofler]] (Alumn)
+7. [[Dominik Voß]] (Alumn)
+8. [[Max Hofacker]] (Alumn)
+9. [[Vitus Past]] (Alumn)
+10. [[Niklas Meier]] (Alumn)
+11. [[Jonathan Klimesch]] (Alumn)
+12. [[Merle Schwager]] (Alumn)
+13. [[Lukas Böckelmann]] (Alumn)
+14. [[Bryan Bliewert]] (Alumn)
+15. [[Leon Renn]] (Alumn)
+16. [[Annalena Kofler]] (Alumn)
 
 ## Bachelor Students
 1. [[Thierry Meyer]]
-2. [[Valentin Reichenspurner]] (Alumni)
-3. [[Jonathan Renusch]] (Alumni)
-4. [[Christian Gajek]] (Alumni)
-5. [[Franka Weiler]] (Alumni)
+2. [[Valentin Reichenspurner]] (Alumn)
+3. [[Jonathan Renusch]] (Alumn)
+4. [[Christian Gajek]] (Alumn)
+5. [[Franka Weiler]] (Alumn)
 
 ## Project Students
 1. [[Manuel Bünsdorf]]
 2. [[Aileen Chen]]
 3. [[Nehir Sen]]
 4. [[Fatma Eltelwany]]
-5. [[Tim Gymnich]] (Alumni)
+5. [[Tim Gymnich]] (Alumn)
 
 ## Hiwis
 1. [[Johanna Reinprecht]]
-2. [[Sara Aumiller]] (Alumni)
+2. [[Sara Aumiller]] (Alumn)
 
 ## Visitors
 * [[Una Alberti]] 

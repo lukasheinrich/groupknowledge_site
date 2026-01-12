@@ -1,5 +1,3 @@
-# LEGO
-
 This is a project in out group to accelerate [[Simulation]]
 
 People working on this:
@@ -9,3 +7,7 @@ People working on this:
 * [[Nikola Boskov]]
 * [[Thierry Meyer]]
 * [[Manuel Bünsdorf]]
+* [[Michael Kagan]]
+* [[Vangelis Kourlitis]]
+* [[Sanmay Ganguly]]
+* [[Dan Rosenbaum]]

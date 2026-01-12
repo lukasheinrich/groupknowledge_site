@@ -1,4 +1,5 @@
-Author: [[Lukas Böckelmann]]
+* Author: [[Lukas Böckelmann]]
+* Supervisors: [[Matthias Vigl]], [[Lukas Heinrich]], [[Michael Kagan]]
 
 Particle physics has established the Standard Model (SM) as a highly successful theory
 that describes fundamental particles and their interactions, yet it leaves many essential
